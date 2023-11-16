@@ -1,1 +1,29 @@
 # sweetYoungThing.github.io
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>测试页面</title>
+    <link href="https://fonts.googleapis.com/css?family=Noto+Sans+SC" rel="stylesheet">
+    <link href="styles/style.css" rel="stylesheet">
+    <script src="scripts/main.js" defer></script>
+  </head>
+  <body>
+    <h1>这是宋禹彤学习Web开发的网站</h1>
+    <img src="images/firefox-icon.png" alt="我和何叶">
+
+    <p>不知道该放点什么图片 就用我和hy吧</p>
+
+    <ul>
+      <li>技术人员：syt</li>
+      <li>思考者：syt</li>
+      <li>建造者：syt</li>
+    </ul>
+
+    <p>提示一下，你可以点击图片，看看会有什么</p>
+
+    <!-- <p>为了达成我们共同的理想，我们遵循一系列的价值观和理念，请参阅 <a href="https://www.mozilla.org/zh-CN/about/manifesto/">Mozilla 宣言</a>。</p> -->
+
+    <button>切换用户</button>
+  </body>
+</html>
